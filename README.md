@@ -291,6 +291,7 @@ The application maintains analyzed ticker state through an in-memory state dicti
 ---
 
 ## System Architecture
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/b08c1b67-d66b-4c1d-9525-f6b66ddb32ae" />
 
 ```text
                          ┌─────────────────────┐
